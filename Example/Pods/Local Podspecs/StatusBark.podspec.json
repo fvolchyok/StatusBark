@@ -15,9 +15,10 @@
     "git": "https://github.com/fvolchyok/StatusBark.git",
     "tag": "0.1.0"
   },
-  "swift_version": "4.2",
+  "swift_versions": "5.0",
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "StatusBark/Classes/**/*"
+  "source_files": "StatusBark/Classes/**/*",
+  "swift_version": "5.0"
 }
