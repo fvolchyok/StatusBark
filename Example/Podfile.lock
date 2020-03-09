@@ -1,5 +1,5 @@
 PODS:
-  - StatusBark (0.1.0)
+  - StatusBark (0.2.0)
 
 DEPENDENCIES:
   - StatusBark (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  StatusBark: 36297be63b0aab8f50c7e62b2a02908dc8eb1681
+  StatusBark: c36476d2bcd467044e9119b618e8ae9b57db1ec4
 
 PODFILE CHECKSUM: df5842a3fb59d2b1a4a958021d13afcb6bd1afdf
 
